@@ -1,0 +1,30 @@
+.nav{
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+}
+
+.navbar_barcontent{
+    background-color: white;
+    height: 54px;
+    border-bottom: 1px solid #dbdbdb;
+    position: sticky;
+    top: 0px;
+}
+
+.navbar_logo{
+    margin-top: 10px;
+}
+
+.navbar_img{
+    margin: 15px 10px;
+}
+
+.navbar_search{
+    border: 2px solid #dbdbdb;
+    text-align: center;
+    margin-top: 15px;
+    outline: none;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
